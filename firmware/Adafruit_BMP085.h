@@ -24,7 +24,7 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 #include <math.h>
-
+#include "application.h"
 #define boolean bool 
   
 #define BMP085_DEBUG 0
